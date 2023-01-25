@@ -1,0 +1,9 @@
+com.example.android.SimpleCalcTest.app-appcompat-v7-24.1.0-0 C:\Users\fkema\.gradle\caches\transforms-3\c51e670f3efcceaea6e36a71cac68a36\transformed\appcompat-v7-24.1.0\res
+com.example.android.SimpleCalcTest.app-pngs-1 C:\Users\fkema\AndroidStudioProjects\Lesson3\app\build\generated\res\pngs\debug
+com.example.android.SimpleCalcTest.app-resValues-2 C:\Users\fkema\AndroidStudioProjects\Lesson3\app\build\generated\res\resValues\debug
+com.example.android.SimpleCalcTest.app-rs-3 C:\Users\fkema\AndroidStudioProjects\Lesson3\app\build\generated\res\rs\debug
+com.example.android.SimpleCalcTest.app-mergeDebugResources-4 C:\Users\fkema\AndroidStudioProjects\Lesson3\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.android.SimpleCalcTest.app-mergeDebugResources-5 C:\Users\fkema\AndroidStudioProjects\Lesson3\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.android.SimpleCalcTest.app-merged_res-6 C:\Users\fkema\AndroidStudioProjects\Lesson3\app\build\intermediates\merged_res\debug
+com.example.android.SimpleCalcTest.app-debug-7 C:\Users\fkema\AndroidStudioProjects\Lesson3\app\src\debug\res
+com.example.android.SimpleCalcTest.app-main-8 C:\Users\fkema\AndroidStudioProjects\Lesson3\app\src\main\res
